@@ -1,4 +1,4 @@
-# Ejercicio 1 : Newsletter
+# Ejercicio 2 : Simple Article Listing
 
 ---
 
@@ -21,8 +21,8 @@ En general no fue complicado realizar el codigo, solo que de inicio tuve el erro
 
 ## 🔗 Enlace al proyecto
 Repositorio en GitHub: [Pega aquí tu enlace]  
-Deploy: [LINK](http://yomidev.github.io/newsletter/)
+Deploy: [https://itzel-melina-aranda-lozano.github.io/Ejercicio2-SimpleArticleListing/]
 ---
 
 ## 📝 Reflexión
-(Escribe aquí unas líneas sobre lo que aprendiste, las dificultades que tuviste y cómo las solucionaste)
+Aprendi que apartados enteros que tambien contienen imagenes tambien pueden ser ordenados en forma de lista, que se les pueden agregar elementos visuales que son tipo pagina web tambien y ya se usar con mas facilidad github.
