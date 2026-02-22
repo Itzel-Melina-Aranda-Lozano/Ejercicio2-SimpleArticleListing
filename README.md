@@ -20,7 +20,7 @@ En general no fue complicado realizar el codigo, solo que de inicio tuve el erro
 ---
 
 ## 🔗 Enlace al proyecto
-Repositorio en GitHub: [Pega aquí tu enlace]  
+Repositorio en GitHub: [https://github.com/Itzel-Melina-Aranda-Lozano/Ejercicio2-SimpleArticleListing]  
 Deploy: [https://itzel-melina-aranda-lozano.github.io/Ejercicio2-SimpleArticleListing/]
 ---
 
